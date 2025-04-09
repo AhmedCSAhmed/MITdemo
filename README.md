@@ -156,12 +156,8 @@ Retrieves all posts from the database.
 4. Push to the branch (`git push origin feature-xyz`)
 5. Create a new Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
 This `README.md` provides an overview of how to set up, run, and interact with the FastAPI-based social media application. Feel free to adjust the project name, repository URL, or add any additional information as necessary.
 
-Let me know if you'd like to make any further changes!
